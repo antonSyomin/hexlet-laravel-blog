@@ -1,2 +1,2 @@
 # hexlet-laravel-blog
-Учебный проект для знакомтсва с Laravel
+Учебный проект для знакомcтва с Laravel
